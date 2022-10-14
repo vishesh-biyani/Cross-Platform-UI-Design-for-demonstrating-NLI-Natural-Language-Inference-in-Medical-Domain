@@ -1,0 +1,8 @@
+﻿premise,hypothesis,gold_label,BioElmo+0+0,BioElmo+1+0,BioElmo+1+1,Elmo+0+0,FastText+1+0,Glove+1+0
+Patient also required multiple pressors to maintain her blood pressure.,the patient is hypotensive,entailment,entailment,contradiction,entailment,entailment,neutral,neutral
+He was initially reluctant to undergo surgery but has had increasing amounts of chest pain episodes.,His chest pain has been getting worse,entailment,entailment,contradiction,entailment,entailment,entailment,entailment
+Patient also required multiple pressors to maintain her blood pressure.,the patient is hypertensive,entailment,entailment,contradiction,entailment,entailment,entailment,entailment
+He was transferred to [**Hospital1 22**] for further management.,The patient required a higher level of care.,neutral,neutral,entailment,neutral,entailment,entailment,entailment
+"Her BP fell to 97/52, then later rose to 197/92 (very labile).",Patient has stable blood pressure,contradiction,contradiction,entailment,contradiction,entailment,entailment,contradiction
+A temporary wire was not necessary at this time due to her narrow complex and hemodynamic stability.,The patient was hemodynamically unstable,contradiction,contradiction,neutral,contradiction,contradiction,entailment,entailment
+"He denies any fever, diarrhea, chest pain, cough, URI symptoms, or dysuria.",The patient does not have infectious symptoms.,entailment,neutral,neutral,neutral,neutral,entailment,neutral
